@@ -1,0 +1,7 @@
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/GlowOrb.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/edit_cache.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/rebuild_cache.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/list_install_components.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/install.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/install/local.dir
+C:/Users/Deban/Downloads/Halo+ORB/glow-orb-desktop/build-ninja/CMakeFiles/install/strip.dir
